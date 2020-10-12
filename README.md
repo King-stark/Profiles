@@ -1,3 +1,7 @@
+For personal use only! For academic exchange only！ Don't abuse!
+
+【This content was originally from the Fork of the ConnersHua/Profiles project and is now merged with ConnersHua's new project DivineEngine/Profiles. Special thanks to ConnersHua for maintaining the content. The content on this page is only for my personal use.】
+
 ⛔️Star ⛔️Fork ⛔️Share
 
 Please read the [Documentation](https://www.notion.so/divineengine/b4161dac0412486e9a6f1637a1b2d572) before using this profile.
@@ -43,7 +47,8 @@ Please read the [Documentation](https://www.notion.so/divineengine/b4161dac04124
 
 
 **Special thanks to**
-
+- [ConnersHua / Profiles](https://github.com/ConnersHua/Profiles)
+- [DivineEngine / Profiles](https://github.com/DivineEngine/Profiles)
 - [scomper / Surge](https://github.com/scomper/Surge)
 - [lhie1 / Rules](https://github.com/lhie1/Rules)
 - [KOP-XIAO / QuantumultX](https://github.com/KOP-XIAO/QuantumultX)
